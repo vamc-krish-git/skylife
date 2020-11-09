@@ -1,3 +1,3 @@
 # skylife
 
-This is a test project.
+This is a test project. Learn terraform and the other mandatory.
